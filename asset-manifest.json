@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://antriksh01.github.io/csb-7ru8lh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://antriksh01.github.io/csb-7ru8lh/static/js/main.765290fb.chunk.js",
+    "main.js.map": "https://antriksh01.github.io/csb-7ru8lh/static/js/main.765290fb.chunk.js.map",
+    "runtime-main.js": "https://antriksh01.github.io/csb-7ru8lh/static/js/runtime-main.1f37e219.js",
+    "runtime-main.js.map": "https://antriksh01.github.io/csb-7ru8lh/static/js/runtime-main.1f37e219.js.map",
+    "static/js/2.f0b31e72.chunk.js": "https://antriksh01.github.io/csb-7ru8lh/static/js/2.f0b31e72.chunk.js",
+    "static/js/2.f0b31e72.chunk.js.map": "https://antriksh01.github.io/csb-7ru8lh/static/js/2.f0b31e72.chunk.js.map",
+    "index.html": "https://antriksh01.github.io/csb-7ru8lh/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://antriksh01.github.io/csb-7ru8lh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f0b31e72.chunk.js.LICENSE.txt": "https://antriksh01.github.io/csb-7ru8lh/static/js/2.f0b31e72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f37e219.js",
+    "static/js/2.f0b31e72.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.765290fb.chunk.js"
+  ]
+}
